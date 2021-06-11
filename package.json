@@ -1,0 +1,20 @@
+{
+  "name": "octo-tech-vlog",
+  "version": "1.0.0",
+  "description": "# octo-tech-vlog -  -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAC61090/octo-tech-vlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAC61090/octo-tech-vlog/issues"
+  },
+  "homepage": "https://github.com/JAC61090/octo-tech-vlog#readme"
+}
